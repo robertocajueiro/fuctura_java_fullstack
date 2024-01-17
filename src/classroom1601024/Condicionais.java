@@ -1,4 +1,4 @@
-package classroom16001024;
+package classroom1601024;
 
 import java.util.Scanner;
 
